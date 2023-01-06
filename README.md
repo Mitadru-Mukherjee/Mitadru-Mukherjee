@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mitadru-Mukherjee
 - 👀 I’m interested in java and Web development
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning and working on React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
